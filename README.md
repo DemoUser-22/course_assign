@@ -1,2 +1,2 @@
-# course_assign
-a sample repository to learn with coursera
+
+I am editing the README file. Adding some more details about the project description.
